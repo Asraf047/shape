@@ -1,6 +1,6 @@
 package shape;
 
-
+//shape
 
 class shape {
 	
